@@ -8,16 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-This is Yifei Yuan's personal homepage. Please also refer to my [homepage@UNSW](https://research.unsw.edu.au/people/dr-ze-jiang). 
+This is Yifei Yuan's personal homepage. 
 
 ## A short introduction
-I am a Postdoctoral Research Fellow in the School of Civil and Environmental Engineering's [Water Research Centre@UNSW](https://www.wrc.unsw.edu.au/) working in the field of hydro-climatology. I received my Ph.D. in Water Resource Engineering from UNSW. During my Ph.D., I developed a new method, namely Wavelet System Prediction (WASP), which is able to predict sustained hydro-climatological changes. I received my B.Eng. in Environmental Engineering from Hohai University, China; I did my Joint M.Sc., named “EuroAquae - HydroInformatics and Water Management” under a partnership of five European universities (in Barcelona, Budapest, Cottbus, Newcastle/UK, and Nice). Before moving to Australia, I also worked in hydrological and crop modelling at Tropical Marine Science Institute of National University of Singapore for two years.
+I am a third year PhD at CUHK text mining group, supervised by Prof.Lam Wai. I obtained my bachelor's degree at Harbin Institute of Technology, 2019.
 
 <b>Research Interests:</b>
-* Hydro-climatological modelling and forecasting
-* Climate change impact on the water cycle (e.g. floods and droughts)
-* Hydrological and water quality modelling
-* HydroInformatics and water management
+* Multimodal Information Retrieval
+* Social Media Mining
+* Natural Language Processing
+* Machine Learning
+
 
 <b>Research Highlights:</b>
 * Development of [spectral transformation](https://doi.org/10.1029/2019WR026962) and its [application](https://doi.org/10.1016/j.jhydrol.2021.126816) in hydro-climatology
