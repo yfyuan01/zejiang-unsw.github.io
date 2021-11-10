@@ -25,5 +25,5 @@ I am a third year PhD at CUHK text mining group, supervised by Prof.Lam Wai. I o
 *Proceedings of the 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 10th International Joint Conference on Natural Language Processing, 2020.*
 
 ## For more information
-More info about me can be found in [CV](https://zejiang-unsw.github.io/cv/).
+More info about me can be found in [CV](https://drive.google.com/file/d/1e_DGE5ln-HdYYc8Ncgk4Lmi8hB5GfNrk/view?usp=sharing).
 
