@@ -39,6 +39,8 @@ I am a third year PhD at CUHK text mining group, supervised by Prof.Lam Wai. I o
 **Yifei Yuan**, Jingbo Zhou, and Wai Lam.  
 *Proceedings of the 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 10th International Joint Conference on Natural Language Processing, 2020.*
 
+## Experiences
+* June
 
 ## For more information
 More info about Yifei Yuan can be found in [CV](https://yfyuan01.github.io/cv/).
