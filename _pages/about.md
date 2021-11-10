@@ -11,7 +11,7 @@ redirect_from:
 This is Yifei Yuan's personal homepage. 
 
 ## A short introduction
-I am a third year PhD student at CUHK text mining group, supervised by Prof.Lam Wai. I obtained my bachelor's degree at Harbin Institute of Technology in 2019, majoring in bioinformatics.
+I am a third year PhD student at [CUHK text mining group](https://www1.se.cuhk.edu.hk/~textmine/), supervised by Prof.Lam Wai. I obtained my bachelor's degree at Harbin Institute of Technology in 2019, majoring in bioinformatics.
 
 Currently, my research interest focuses on multimodal information retrieval and text mining problems, including social media based fashion analysis, multimodal dialogue systems, etc. I'm also interested in other aspects of NLP and IR in the multimodal domain. 
 
@@ -44,6 +44,11 @@ Currently, my research interest focuses on multimodal information retrieval and 
 ## Experiences
 * **Nov 2018-May 2019** Research Intern, Bussiness Intellegence Lab, Baidu
 * **Nov 2021-Current** Research Intern, Alibaba Group
+
+## Honors & Awards
+* National Scholarship for Undergraduate Students, 2016
+* Second Prize of People's Scholarship, 2016 & 2017
+* SIGIR Student Grant, 2021
 
 ## For more information
 More info about Yifei Yuan can be found in [CV](https://yfyuan01.github.io/cv/).
