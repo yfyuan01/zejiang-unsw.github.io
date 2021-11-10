@@ -26,18 +26,19 @@ I am a third year PhD at CUHK text mining group, supervised by Prof.Lam Wai. I o
 * Quantification of future changes in drought and [agricultural production](https://doi.org/10.1007/s00704-018-2617-z) under global warming
 * Development of [index-based drought insurance](https://doi.org/10.1108/AFR-02-2020-0020) for disaster risk transfer
 
-## Selected Journal Publications
-Jiang, Z., Johnson, F., & Sharma, A. (2021). Why uncertainty matters? A new alternative to project drought for future climates. *submitted to Water Resources Research, under review*. 
+## Publications
+* Sentiment Analysis of Fashion Related Posts in Social Media.    
+**Yifei Yuan** and Wai Lam.   
+*Proceedings of the 15th ACM International Conference on Web Search and Data Mining, 2022.* 
 
-Jiang, Z., Sharma, A., & Johnson, F. (2021). Variable transformations in the spectral domain – Implications for hydrologic forecasting. *Journal of Hydrology*, 603, 126816. [link](https://doi.org/10.1016/j.jhydrol.2021.126816)
+* Conversational Fashion Image Retrieval via Multiturn Natural Language Feedback.  
+**Yifei Yuan** and Wai Lam.  
+*Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval, 2021.* 
 
-Jiang, Z., Rashid, M. M., Johnson, F., & Sharma, A. (2020). A wavelet-based tool to modulate variance in predictors: An application to predicting drought anomalies. *Environmental Modelling & Software*, 135, 104907. [link](https://doi.org/10.1016/j.envsoft.2020.104907)
+* Point-of-Interest Oriented Question Answering with Joint Inference of Semantic Matching and Distance Correlation.  
+**Yifei Yuan**, Jingbo Zhou, and Wai Lam.  
+*Proceedings of the 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 10th International Joint Conference on Natural Language Processing, 2020.*
 
-Jiang, Z., Sharma, A., & Johnson, F. (2020). Refining Predictor Spectral Representation Using Wavelet Theory for Improved Natural System Modeling. *Water Resources Research*, 56(3), e2019WR026962. [link](https://doi.org/10.1029/2019WR026962)
-
-Jiang, Z., Sharma, A., & Johnson, F. (2019). Assessing the sensitivity of hydro-climatological change detection methods to model uncertainty and bias. *Advances in Water Resources*, 134, 103430. [link](https://doi.org/10.1016/j.advwatres.2019.103430)
-
-Jiang, Z., Raghavan, S. V., Hur, J., Sun, Y., Liong, S.-Y., Nguyen, V. Q., & Van Pham Dang, T. (2019). Future changes in rice yields over the Mekong River Delta due to climate change-Alarming or alerting? *Theoretical and Applied Climatology*, 137(1), 545-555. [link](https://doi.org/10.1007/s00704-018-2617-z)
 
 ## For more information
-More info about Ze Jiang can be found in [CV](https://zejiang-unsw.github.io/cv/) or [downloaded CV](http://zejiang-unsw.github.io/files/CV_Ze JIANG_UNSW_Eng.pdf).
+More info about Yifei Yuan can be found in [CV](https://yfyuan01.github.io/cv/).
