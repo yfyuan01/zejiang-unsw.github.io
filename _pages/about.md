@@ -33,6 +33,11 @@ Currently, my research interest focuses on multimodal information retrieval and 
 **Yifei Yuan** and Wai Lam.   
 *Proceedings of the 15th ACM International Conference on Web Search and Data Mining, 2022.* **(Full Paper, WSDM 2022)**
 
+* Aspect Sentiment Quad Prediction as Paraphrase Generation.  
+Wenxuan Zhang, Yang Deng, Xin Li, **Yifei Yuan**, Lidong Bing, Wai Lam.  
+*Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing.* **(Full Paper, EMNLP 2021)**
+
+
 * Conversational Fashion Image Retrieval via Multiturn Natural Language Feedback.  
 **Yifei Yuan** and Wai Lam.  
 *Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval, 2021.*  **(Full Paper, SIGIR 202`)**
