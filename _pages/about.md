@@ -40,7 +40,7 @@ Wenxuan Zhang, Yang Deng, Xin Li, **Yifei Yuan**, Lidong Bing, Wai Lam.
 
 * Conversational Fashion Image Retrieval via Multiturn Natural Language Feedback.  
 **Yifei Yuan** and Wai Lam.  
-*Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval, 2021.*  **(Full Paper, SIGIR 202`)**
+*Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval, 2021.*  **(Full Paper, SIGIR 2021)**
 
 * Point-of-Interest Oriented Question Answering with Joint Inference of Semantic Matching and Distance Correlation.  
 **Yifei Yuan**, Jingbo Zhou, and Wai Lam.  
