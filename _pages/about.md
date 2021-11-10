@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yifeu Yuan (袁一菲)"
+title: "Yifei Yuan (袁一菲)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
