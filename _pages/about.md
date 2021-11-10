@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ze Jiang"
+title: "Yifeu Yuan (袁一菲)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
