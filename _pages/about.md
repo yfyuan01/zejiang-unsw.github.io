@@ -31,15 +31,15 @@ Currently, my research interest focuses on multimodal information retrieval and 
 ## Publications
 * Sentiment Analysis of Fashion Related Posts in Social Media.    
 **Yifei Yuan** and Wai Lam.   
-*Proceedings of the 15th ACM International Conference on Web Search and Data Mining, 2022.* 
+*Proceedings of the 15th ACM International Conference on Web Search and Data Mining, 2022.* **(Full Paper, WSDM 2022)**
 
 * Conversational Fashion Image Retrieval via Multiturn Natural Language Feedback.  
 **Yifei Yuan** and Wai Lam.  
-*Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval, 2021.* 
+*Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval, 2021.*  **(Full Paper, SIGIR 202`)**
 
 * Point-of-Interest Oriented Question Answering with Joint Inference of Semantic Matching and Distance Correlation.  
 **Yifei Yuan**, Jingbo Zhou, and Wai Lam.  
-*Proceedings of the 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 10th International Joint Conference on Natural Language Processing, 2020.*
+*Proceedings of the 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 10th International Joint Conference on Natural Language Processing, 2020.* **(Full Paper, AACL 2020)**
 
 ## Experiences
 * **Nov 2018-May 2019** Research Intern, Bussiness Intellegence Lab, Baidu
