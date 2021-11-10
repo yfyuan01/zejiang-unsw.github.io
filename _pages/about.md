@@ -40,7 +40,7 @@ I am a third year PhD at CUHK text mining group, supervised by Prof.Lam Wai. I o
 *Proceedings of the 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 10th International Joint Conference on Natural Language Processing, 2020.*
 
 ## Experiences
-* June
+* Nov 2018-May 2019 Research Intern, Bussiness Intellegence Lab, Baidu
 
 ## For more information
 More info about Yifei Yuan can be found in [CV](https://yfyuan01.github.io/cv/).
