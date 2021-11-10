@@ -13,7 +13,7 @@ I am a third year PhD at CUHK text mining group, supervised by Prof.Lam Wai. I o
 
 ## Publications
 * Conversational Fashion Image Retrieval via Multiturn Natural Language Feedback.  
-&nbsp;&nbsp;**Yifei Yuan** and Wai Lam.  
+**Yifei Yuan** and Wai Lam.  
 &nbsp;&nbsp;*Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval, 2021.* 
 
 * Point-of-Interest Oriented Question Answering with Joint Inference of Semantic Matching and Distance Correlation.
