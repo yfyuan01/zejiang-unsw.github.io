@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ze Jiang"
+title                    : "Yifei Yuan"
 title_separator          : "-"
-name                     : &name "Ze Jiang"
+name                     : &name "Yifei Yuan"
 description              : &description "Researcher in WRC@UNSW, Sydney, Australia"
 url                      : https://zejiang-unsw.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
