@@ -51,4 +51,4 @@ Currently, my research interest focuses on multimodal information retrieval and 
 * SIGIR Student Grant, 2021
 
 ## For more information
-More info about Yifei Yuan can be found in [CV](https://yfyuan01.github.io/cv/).
+More info about Yifei Yuan can be found in [CV](https://drive.google.com/file/d/1e_DGE5ln-HdYYc8Ncgk4Lmi8hB5GfNrk/view?usp=sharing).
