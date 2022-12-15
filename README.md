@@ -12,6 +12,10 @@ I am a third year PhD at CUHK text mining group, supervised by Prof.Lam Wai. I o
 
 
 ## Publications
+* MCqueen: a benchmark for multimodal conversational query rewrite.  
+**Yifei Yuan**, Chen Shi, Runze Wang, Liyi Chen, Feijun Jiang, Yuan You, Wai Lam.  
+*Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing.*
+
 * Sentiment Analysis of Fashion Related Posts in Social Media.    
 **Yifei Yuan** and Wai Lam.   
 *Proceedings of the 15th ACM International Conference on Web Search and Data Mining, 2022.* 
