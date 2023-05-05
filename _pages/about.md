@@ -31,7 +31,7 @@ Currently, my research interest focuses on multimodal information retrieval and 
 ## Publications
 * MCqueen: a benchmark for multimodal conversational query rewrite.  
 **Yifei Yuan**, Chen Shi, Runze Wang, Liyi Chen, Feijun Jiang, Yuan You, Wai Lam.  
-*Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing.*
+*Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing.* **(Full Paper, EMNLP 2022)**
 
 * Sentiment Analysis of Fashion Related Posts in Social Media.    
 **Yifei Yuan** and Wai Lam.   
