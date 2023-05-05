@@ -29,9 +29,9 @@ Currently, my research interest focuses on multimodal information retrieval and 
 * Development of [index-based drought insurance](https://doi.org/10.1108/AFR-02-2020-0020) for disaster risk transfer -->
 
 ## Publications
-* McQueen: a Benchmark for Multimodal Conversational Query Rewrite.
-**Yifei Yuan**, Chen Shi, Runze Wang, Liyi Chen, Feijun Jiang, Yuan You, and Wai Lam 
-*Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing.* **(Full Paper, EMNLP 2022)**
+* MCqueen: a benchmark for multimodal conversational query rewrite.  
+**Yifei Yuan**, Chen Shi, Runze Wang, Liyi Chen, Feijun Jiang, Yuan You, Wai Lam.  
+*Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing.*
 
 * Sentiment Analysis of Fashion Related Posts in Social Media.    
 **Yifei Yuan** and Wai Lam.   
