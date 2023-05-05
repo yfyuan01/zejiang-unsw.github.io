@@ -17,7 +17,7 @@ Currently, my research interest focuses on multimodal information retrieval and 
 
 <b>Research Interests:</b>
 * Multimodal Information Retrieval
-* Social Media Mining
+* Conversational IR
 * Natural Language Processing
 * Machine Learning
 
@@ -30,7 +30,8 @@ Currently, my research interest focuses on multimodal information retrieval and 
 
 ## Publications
 * McQueen: a Benchmark for Multimodal Conversational Query Rewrite.
-**Yifei Yuan**, Chen Shi, Runze Wang, Liyi Chen, Feijun Jiang, Yuan You, and Wai Lam Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing. **(Full Paper, EMNLP 2022)**
+**Yifei Yuan**, Chen Shi, Runze Wang, Liyi Chen, Feijun Jiang, Yuan You, and Wai Lam 
+*Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing. **(Full Paper, EMNLP 2022)**
 
 * Sentiment Analysis of Fashion Related Posts in Social Media.    
 **Yifei Yuan** and Wai Lam.   
@@ -51,7 +52,9 @@ Wenxuan Zhang, Yang Deng, Xin Li, **Yifei Yuan**, Lidong Bing, Wai Lam.
 
 ## Experiences
 * **Nov 2018-May 2019** Research Intern, Bussiness Intellegence Lab, Baidu
-* **Nov 2021-Current** Research Intern, Alibaba Group
+* **Nov 2021-May 2022** Research Intern, Alibaba Group
+* **Jul 2022-Mar 2023** Visiting Researcher, University of Amsterdam
+
 
 ## Honors & Awards
 * National Scholarship for Undergraduate Students, 2016
