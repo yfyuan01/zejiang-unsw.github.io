@@ -11,7 +11,7 @@ redirect_from:
 This is Yifei Yuan's personal homepage. 
 
 ## A short introduction
-I am a third year PhD student at [CUHK text mining group](https://www1.se.cuhk.edu.hk/~textmine/), supervised by Prof.Lam Wai. I obtained my bachelor's degree at Harbin Institute of Technology in 2019, majoring in bioinformatics.
+I am a fourth year PhD student at [CUHK text mining group](https://www1.se.cuhk.edu.hk/~textmine/), supervised by Prof.Lam Wai. I obtained my bachelor's degree at Harbin Institute of Technology in 2019, majoring in bioinformatics.
 
 Currently, my research interest focuses on multimodal information retrieval and text mining problems, including social media based fashion analysis, multimodal dialogue systems, etc. I'm also interested in other aspects of NLP and IR in the multimodal domain. 
 
@@ -29,6 +29,9 @@ Currently, my research interest focuses on multimodal information retrieval and 
 * Development of [index-based drought insurance](https://doi.org/10.1108/AFR-02-2020-0020) for disaster risk transfer -->
 
 ## Publications
+* McQueen: a Benchmark for Multimodal Conversational Query Rewrite.
+**Yifei Yuan**, Chen Shi, Runze Wang, Liyi Chen, Feijun Jiang, Yuan You, and Wai Lam Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing. **(Full Paper, EMNLP 2022)**
+
 * Sentiment Analysis of Fashion Related Posts in Social Media.    
 **Yifei Yuan** and Wai Lam.   
 *Proceedings of the 15th ACM International Conference on Web Search and Data Mining, 2022.* **(Full Paper, WSDM 2022)**
