@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yifei Yuan (袁一菲)"
+title: "Yifei Yuan"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,7 +11,7 @@ redirect_from:
 This is Yifei Yuan's personal homepage. 
 
 ## A short introduction
-I am currently a postdoc fellow at [Coastal NLP group](https://coastalcph.github.io/) University of Copenhagen, working with Prof. Anders Søggard. I previously obtained my PhD degree at [CUHK text mining group](https://www1.se.cuhk.edu.hk/~textmine/), supervised by Prof.Lam Wai. I obtained my bachelor's degree at Harbin Institute of Technology in 2019, majoring in bioinformatics.
+I am currently a postdoc fellow at [Coastal NLP group](https://coastalcph.github.io/) at University of Copenhagen, working with Prof. Anders Søggard. I previously obtained my PhD degree at [CUHK text mining group](https://www1.se.cuhk.edu.hk/~textmine/), supervised by Prof.Lam Wai. I obtained my bachelor's degree at Harbin Institute of Technology in 2019, majoring in bioinformatics.
 
 Currently, my research interest focuses on multimodal information retrieval and text mining problems, including social media based fashion analysis, multimodal dialogue systems, etc. I'm also interested in other aspects of NLP and IR in the multimodal domain. 
 
@@ -31,15 +31,15 @@ Currently, my research interest focuses on multimodal information retrieval and 
 
 ## Publications
 * Let the LLMs Talk: Simulating Human-to-Human Conversational QA via Zero-Shot LLM-to-LLM Interactions.
-Zahra Abbasiantaeb, **Yifei Yuan**, Evangelos Kanoulas, Mohammad Aliannejadi
+Zahra Abbasiantaeb, **Yifei Yuan**, Evangelos Kanoulas, Mohammad Aliannejadi.
 *Proceedings of the 15th ACM International Conference on Web Search and Data Mining, 2024.* **(Full Paper, WSDM 2024)**
 
 * Social Media Fashion Knowledge Extraction as Captioning.
-**Yifei Yuan**, Wenxuan Zhang, Yang Deng, Wai Lam
+**Yifei Yuan**, Wenxuan Zhang, Yang Deng, Wai Lam.
 *Annual International ACM SIGIR Conference on Research and Development in Information Retrieval in the Asia Pacific Region.* **(Full Paper, SIGIR-AP 2023)**
 
 * Knowledge-enhanced Mixed-initiative Dialogue System for Emotional Support Conversations.
-Yang Deng, Wenxuan Zhang, **Yifei Yuan**, Wai Lam
+Yang Deng, Wenxuan Zhang, **Yifei Yuan**, Wai Lam.
 *Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics.* **(Full Paper, ACL 2023)**
 
 * MCqueen: a benchmark for multimodal conversational query rewrite.  
@@ -63,12 +63,18 @@ Wenxuan Zhang, Yang Deng, Xin Li, **Yifei Yuan**, Lidong Bing, Wai Lam.
 **Yifei Yuan**, Jingbo Zhou, and Wai Lam.  
 *Proceedings of the 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 10th International Joint Conference on Natural Language Processing, 2020.* **(Full Paper, AACL 2020)**
 
-## Professional Service
-Reviewer: NAACL 2023, EACL 2023, WWW
+## Professional Activity
+Reviewer: NAACL 2023, EACL 2023, WWW 2022, ACL 2022, ACM Computing Surverys 2022, ...
 
-## Teaching
-ATNLP, University of Copenhagen, 2023
-, University of Amsterdam, 2022
+## Teaching Experimence
+**Teaching**
+* ATNLP, University of Copenhagen, 2023, Co-teaching with Desmond Elliott
+* Intelligent Interactive Systems, University of Amsterdam, 2022, Co-teaching with Frank Nack
+**TA**
+* 2020R2-SEEM 2420 Operations Research I, The Chinese University of Hong Kong, 2020
+* 2020R2-SEEM 3450 Engineering Innovation and Entrepreneurship,  The Chinese University of Hong Kong, 2020
+* 2019R2-SEEM 3570 Stochastic Models, The Chinese University of Hong Kong, 2019
+* Special TA task force, The Chinese University of Hong Kong, 2019
 
 
 ## Experiences
