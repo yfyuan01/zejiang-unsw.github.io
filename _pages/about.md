@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+Email: yfyuan01@gmail.com
 
 ## A short introduction
 I am currently a postdoc fellow at [Coastal NLP group](https://coastalcph.github.io/) at University of Copenhagen, working with Prof. Anders Søggard. I previously obtained my PhD degree at [CUHK text mining group](https://www1.se.cuhk.edu.hk/~textmine/), supervised by Prof.Lam Wai. I obtained my bachelor's degree at Harbin Institute of Technology in 2019, majoring in bioinformatics.
