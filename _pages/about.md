@@ -18,6 +18,7 @@ Currently, my research interest focuses on multimodal information retrieval and 
 <b>Research Interests:</b>
 * Multimodal Information Retrieval
 * Conversational IR
+* Image-text based Multimodal NLP
 * Natural Language Processing
 * Machine Learning
 
@@ -62,6 +63,14 @@ Wenxuan Zhang, Yang Deng, Xin Li, **Yifei Yuan**, Lidong Bing, Wai Lam.
 **Yifei Yuan**, Jingbo Zhou, and Wai Lam.  
 *Proceedings of the 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 10th International Joint Conference on Natural Language Processing, 2020.* **(Full Paper, AACL 2020)**
 
+## Professional Service
+Reviewer: NAACL 2023, EACL 2023, WWW
+
+## Teaching
+ATNLP, University of Copenhagen, 2023
+, University of Amsterdam, 2022
+
+
 ## Experiences
 * **Nov 2018-May 2019** Research Intern, Bussiness Intellegence Lab, Baidu
 * **Nov 2021-May 2022** Research Intern, Alibaba Group
@@ -72,6 +81,7 @@ Wenxuan Zhang, Yang Deng, Xin Li, **Yifei Yuan**, Lidong Bing, Wai Lam.
 * National Scholarship for Undergraduate Students, 2016
 * Second Prize of People's Scholarship, 2016 & 2017
 * SIGIR Student Grant, 2021
+* SIGIR Student Grant, 2022
 
 ## For more information
 More info about Yifei Yuan can be found in [CV](https://drive.google.com/file/d/1e_DGE5ln-HdYYc8Ncgk4Lmi8hB5GfNrk/view?usp=sharing).
