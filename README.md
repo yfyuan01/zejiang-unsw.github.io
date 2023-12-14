@@ -21,7 +21,7 @@ Zahra Abbasiantaeb, **Yifei Yuan**, Evangelos Kanoulas, Mohammad Aliannejadi.
 
 * Social Media Fashion Knowledge Extraction as Captioning.  
 **Yifei Yuan**, Wenxuan Zhang, Yang Deng, Wai Lam.  
-*Annual International ACM SIGIR Conference on Research and Development in Information Retrieval in the Asia Pacific Region.* **(Full Paper, SIGIR-AP  2023)**
+*Annual International ACM SIGIR Conference on Research and Development in Information Retrieval in the Asia Pacific Region.* **(Full Paper, SIGIR-AP 2023)**
 
 * Knowledge-enhanced Mixed-initiative Dialogue System for Emotional Support Conversations.  
 Yang Deng, Wenxuan Zhang, **Yifei Yuan**, Wai Lam.  
@@ -29,23 +29,23 @@ Yang Deng, Wenxuan Zhang, **Yifei Yuan**, Wai Lam.
 
 * MCqueen: a benchmark for multimodal conversational query rewrite.  
 **Yifei Yuan**, Chen Shi, Runze Wang, Liyi Chen, Feijun Jiang, Yuan You, Wai Lam.  
-*Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing.*
+*Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing.* **(Full Paper, EMNLP 2022)**
 
 * Sentiment Analysis of Fashion Related Posts in Social Media.    
 **Yifei Yuan** and Wai Lam.   
-*Proceedings of the 15th ACM International Conference on Web Search and Data Mining, 2022.* 
+*Proceedings of the 15th ACM International Conference on Web Search and Data Mining, 2022.*  **(Full Paper, WSDM 2022)**
 
 * Aspect Sentiment Quad Prediction as Paraphrase Generation.  
 Wenxuan Zhang, Yang Deng, Xin Li, **Yifei Yuan**, Lidong Bing, Wai Lam.  
-*Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing.*
+*Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing.* **(Full Paper, EMNLP 2021)**
 
 * Conversational Fashion Image Retrieval via Multiturn Natural Language Feedback.  
 **Yifei Yuan** and Wai Lam.  
-*Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval, 2021.* 
+*Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval, 2021.* **(Full Paper, SIGIR 2021)**
 
 * Point-of-Interest Oriented Question Answering with Joint Inference of Semantic Matching and Distance Correlation.  
 **Yifei Yuan**, Jingbo Zhou, and Wai Lam.  
-*Proceedings of the 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 10th International Joint Conference on Natural Language Processing, 2020.*
+*Proceedings of the 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 10th International Joint Conference on Natural Language Processing, 2020.* **(Full Paper, AACL 2020)**
 
 ## Teaching Experience
 **Teaching**
