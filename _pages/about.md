@@ -38,8 +38,8 @@ Zahra Abbasiantaeb, **Yifei Yuan**, Evangelos Kanoulas, Mohammad Aliannejadi.
 **Yifei Yuan**, Wenxuan Zhang, Yang Deng, Wai Lam.  
 *Annual International ACM SIGIR Conference on Research and Development in Information Retrieval in the Asia Pacific Region.* **(Full Paper, SIGIR-AP  2023)**
 
-* Knowledge-enhanced Mixed-initiative Dialogue System for Emotional Support Conversations.
-Yang Deng, Wenxuan Zhang, **Yifei Yuan**, Wai Lam.
+* Knowledge-enhanced Mixed-initiative Dialogue System for Emotional Support Conversations.  
+Yang Deng, Wenxuan Zhang, **Yifei Yuan**, Wai Lam.  
 *Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics.* **(Full Paper, ACL 2023)**
 
 * MCqueen: a benchmark for multimodal conversational query rewrite.  
