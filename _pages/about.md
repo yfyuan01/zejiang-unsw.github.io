@@ -66,7 +66,7 @@ Wenxuan Zhang, Yang Deng, Xin Li, **Yifei Yuan**, Lidong Bing, Wai Lam.
 ## Professional Activity
 Reviewer: NAACL 2023, EACL 2023, WWW 2022, ACL 2022, ACM Computing Surverys 2022, ...
 
-## Teaching Experimence
+## Teaching Experience
 **Teaching**
 * ATNLP, University of Copenhagen, 2023, Co-teaching with Desmond Elliott
 * Intelligent Interactive Systems, University of Amsterdam, 2022, Co-teaching with Frank Nack
