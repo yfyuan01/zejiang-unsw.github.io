@@ -32,17 +32,14 @@ Currently, my research interest focuses on multimodal information retrieval and 
 ## Publications
 * Let the LLMs Talk: Simulating Human-to-Human Conversational QA via Zero-Shot LLM-to-LLM Interactions.
 Zahra Abbasiantaeb, **Yifei Yuan**, Evangelos Kanoulas, Mohammad Aliannejadi.
-
 *Proceedings of the 15th ACM International Conference on Web Search and Data Mining, 2024.* **(Full Paper, WSDM 2024)**
 
 * Social Media Fashion Knowledge Extraction as Captioning.
 **Yifei Yuan**, Wenxuan Zhang, Yang Deng, Wai Lam.
-
 *Annual International ACM SIGIR Conference on Research and Development in Information Retrieval in the Asia Pacific Region.* **(Full Paper, SIGIR-AP 2023)**
 
 * Knowledge-enhanced Mixed-initiative Dialogue System for Emotional Support Conversations.
 Yang Deng, Wenxuan Zhang, **Yifei Yuan**, Wai Lam.
-
 *Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics.* **(Full Paper, ACL 2023)**
 
 * MCqueen: a benchmark for multimodal conversational query rewrite.  
