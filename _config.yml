@@ -82,12 +82,12 @@ analytics:
 author: 
   name             : "Yifei Yuan (袁一菲)"
   avatar           : "profile1.jpg"
-  bio              : "Current PhD Student at the CUHK Text Mining Group"
-  location         : "Hong Kong SAR"
+  bio              : "Current Postdoc at University of Copenhagen, Previous PhD at the CUHK Text Mining Group"
+  location         : "Copenhagen, Denmark"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=2LQnqqAAAAAJ"
-  email            : "yfyuan@se.cuhk.edu.hk"
+  email            : "yfyuan01@gmail.com"
   # researchgate     : "https://www.researchgate.net/profile/Ze_Jiang3"
   # publons          : "https://publons.com/researcher/3963266/ze-jiang/"
   uri              : 
