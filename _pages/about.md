@@ -30,6 +30,10 @@ Currently, my research interest focuses on multimodal information retrieval and 
 * Development of [index-based drought insurance](https://doi.org/10.1108/AFR-02-2020-0020) for disaster risk transfer -->
 
 ## Publications
+* Sentiment Analysis of Fashion Related Posts in Social Media.    
+**Yifei Yuan** and Wai Lam.   
+*Proceedings of the 15th ACM International Conference on Web Search and Data Mining, 2022.* **(Full Paper, WSDM 2022)**
+
 * Let the LLMs Talk: Simulating Human-to-Human Conversational QA via Zero-Shot LLM-to-LLM Interactions.
 Zahra Abbasiantaeb, **Yifei Yuan**, Evangelos Kanoulas, Mohammad Aliannejadi.
 *Proceedings of the 15th ACM International Conference on Web Search and Data Mining, 2024.* **(Full Paper, WSDM 2024)**
