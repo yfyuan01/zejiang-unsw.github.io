@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Email: yfyuan01@gmail.com
+Contact: yfyuan01@gmail.com
 
 ## Bio
-I am currently a postdoc fellow at [Coastal NLP group](https://coastalcph.github.io/) at University of Copenhagen, working with Prof. Anders Søggard. I previously obtained my PhD degree at [CUHK text mining group](https://www1.se.cuhk.edu.hk/~textmine/), supervised by Prof.Lam Wai. I obtained my bachelor's degree at Harbin Institute of Technology in 2019, majoring in bioinformatics.
+I am currently a postdoc fellow at [Coastal NLP group](https://coastalcph.github.io/) at University of Copenhagen, working with Prof. Anders Søggard. I obtained my PhD degree in October 2023 at [CUHK text mining group](https://www1.se.cuhk.edu.hk/~textmine/), supervised by Prof.Lam Wai. I obtained my bachelor's degree at Harbin Institute of Technology in 2019, majoring in bioinformatics.
 
 Currently, my research interest focuses on multimodal information retrieval and text mining problems, including social media based fashion analysis, multimodal dialogue systems, etc. I'm also interested in other aspects of NLP and IR in the multimodal domain. 
 
@@ -91,4 +91,4 @@ Reviewer: NAACL 2023, EACL 2023, WWW 2022, ACL 2022, ACM Computing Surverys 2022
 * SIGIR Student Grant, 2022
 
 ## For more information
-More info about Yifei Yuan can be found in [CV](https://drive.google.com/file/d/1e_DGE5ln-HdYYc8Ncgk4Lmi8hB5GfNrk/view?usp=sharing).
+More info about me can be found in [CV](https://drive.google.com/file/d/1e_DGE5ln-HdYYc8Ncgk4Lmi8hB5GfNrk/view?usp=sharing).
