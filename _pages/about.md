@@ -68,7 +68,7 @@ Wenxuan Zhang, Yang Deng, Xin Li, **Yifei Yuan**, Lidong Bing, Wai Lam.
 *Proceedings of the 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 10th International Joint Conference on Natural Language Processing, 2020.* **(Full Paper, AACL 2020)**
 
 ## Professional Activity
-Reviewer: NAACL 2023, EACL 2023, WWW 2022, ACL 2022, ACM Computing Surverys 2022, ...
+Reviewer: SIGIR 2024, NAACL 2023, EACL 2023, WWW 2022, ACL 2022, ACM Computing Surverys 2022, ...
 
 ## Teaching Experience
 **Teaching**
