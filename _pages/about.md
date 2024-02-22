@@ -30,6 +30,10 @@ Currently, my research interest focuses on multimodal information retrieval and 
 * Development of [index-based drought insurance](https://doi.org/10.1108/AFR-02-2020-0020) for disaster risk transfer -->
 
 ## Publications
+* CO3: Low-resource Contrastive Co-training for Generative Conversational Query Rewrite.   
+**Yifei Yuan**, Chen Shi, Wang Runze, Liyi Chen, Renjun Hu, zengming zhang, Feijun Jiang, Wai Lam.
+*Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation.* **(Full Paper, COLING 2024)**
+
 * Asking Multimodal Clarifying Questions in Mixed-Initiative Conversational Search.   
 **Yifei Yuan**, Clemencia Siro, Mohammad Aliannejadi, Maarten de Rijke, Wai Lam.   
 *Proceedings of the ACM Web Conference, 2024.* **(Full Paper, WWW 2024)**
