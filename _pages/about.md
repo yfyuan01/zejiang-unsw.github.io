@@ -30,6 +30,10 @@ Currently, my research interest focuses on multimodal information retrieval and 
 * Development of [index-based drought insurance](https://doi.org/10.1108/AFR-02-2020-0020) for disaster risk transfer -->
 
 ## Publications
+* On the Multi-turn Instruction Following for Conversational Web Agents.   
+Yang Deng, Xuan Zhang, Wenxuan Zhang, **Yifei Yuan**, See-Kiong Ng, Tat-Seng Chua.   
+*Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics.* **(Full Paper, ACL 2024)**
+
 * CO3: Low-resource Contrastive Co-training for Generative Conversational Query Rewrite.   
 **Yifei Yuan**, Chen Shi, Wang Runze, Liyi Chen, Renjun Hu, zengming zhang, Feijun Jiang, Wai Lam.
 *Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation.* **(Full Paper, COLING 2024)**
