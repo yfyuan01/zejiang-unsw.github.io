@@ -83,6 +83,12 @@ Reviewer and PC members: ACL, SIGIR, NAACL, WWW, CIKM, EACL, TOIS, ACM Computing
 * ATNLP, University of Copenhagen, 2023, Co-teaching with Desmond Elliott
 * Intelligent Interactive Systems, University of Amsterdam, 2022, Co-teaching with Frank Nack
 
+## Invited Talk
+* LLM-based Clarification in Conversational Search: Going beyond Unimodality and System Performance.  
+NLP-SIG workshop in NUS, Singapore, May 2024
+* Conversational IR.  
+Ellis ESSIR summer school in UvA, Amsterdam, July 2024
+
 **TA**
 * 2020R2-SEEM 2420 Operations Research I, The Chinese University of Hong Kong, 2020
 * 2020R2-SEEM 3450 Engineering Innovation and Entrepreneurship,  The Chinese University of Hong Kong, 2020
