@@ -102,11 +102,15 @@ Ellis ESSIR summer school in UvA, Amsterdam, July 2024
 * **Jul 2022-Mar 2023** Visiting Researcher, University of Amsterdam
 
 
-## Honors & Awards
-* National Scholarship for Undergraduate Students, 2016
-* Second Prize of People's Scholarship, 2016 & 2017
-* SIGIR Student Grant, 2021
-* SIGIR Student Grant, 2022
+[//]: # (## Honors & Awards)
+
+[//]: # (* National Scholarship for Undergraduate Students, 2016)
+
+[//]: # (* Second Prize of People's Scholarship, 2016 & 2017)
+
+[//]: # (* SIGIR Student Grant, 2021)
+
+[//]: # (* SIGIR Student Grant, 2022)
 
 ## For more information
 More info about me can be found in [CV](https://drive.google.com/file/d/1e_DGE5ln-HdYYc8Ncgk4Lmi8hB5GfNrk/view?usp=sharing).
