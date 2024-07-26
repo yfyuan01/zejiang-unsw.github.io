@@ -30,6 +30,10 @@ Currently, my research interest focuses on multimodal information retrieval and 
 * Development of [index-based drought insurance](https://doi.org/10.1108/AFR-02-2020-0020) for disaster risk transfer -->
 
 ## Publications
+* Towards Fine-Grained Citation Evaluation in Generated Text: A Comparative Analysis of Faithfulness Metrics.   
+Weijia Zhang, Mohammad Aliannejadi, **Yifei Yuan**, Jiahuan Pei, JIA-HONG HUANG and Evangelos Kanoulas.   
+*Proceedings of the 17th International Natural Language Generation Conference* **(Full Paper, INLG 2024)**
+
 * On the Multi-turn Instruction Following for Conversational Web Agents.   
 Yang Deng, Xuan Zhang, Wenxuan Zhang, **Yifei Yuan**, See-Kiong Ng, Tat-Seng Chua.   
 *Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics.* **(Full Paper, ACL 2024)**
