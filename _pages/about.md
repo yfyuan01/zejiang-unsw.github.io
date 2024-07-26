@@ -29,7 +29,7 @@ Currently, my research interest focuses on multimodal information retrieval and 
 * Quantification of future changes in drought and [agricultural production](https://doi.org/10.1007/s00704-018-2617-z) under global warming
 * Development of [index-based drought insurance](https://doi.org/10.1108/AFR-02-2020-0020) for disaster risk transfer -->
 
-## Publications
+## Selected Publications
 * Towards Fine-Grained Citation Evaluation in Generated Text: A Comparative Analysis of Faithfulness Metrics.   
 Weijia Zhang, Mohammad Aliannejadi, **Yifei Yuan**, Jiahuan Pei, JIA-HONG HUANG and Evangelos Kanoulas.   
 *Proceedings of the 17th International Natural Language Generation Conference* **(Full Paper, INLG 2024)**
