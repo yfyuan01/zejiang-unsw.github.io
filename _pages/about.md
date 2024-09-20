@@ -30,11 +30,11 @@ Currently, my research interest focuses on multimodal information retrieval and 
 * Development of [index-based drought insurance](https://doi.org/10.1108/AFR-02-2020-0020) for disaster risk transfer -->
 
 ## Selected Publications
-* Unlocking Markets: A Multilingual Benchmark to Cross-Market Question Answering
+* Unlocking Markets: A Multilingual Benchmark to Cross-Market Question Answering.   
 **Yifei Yuan**, Yang Deng, Anders Søgaard, Mohammad Aliannejadi.   
 *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing.* **(Full Paper, EMNLP 2024)**
 
-* FoodieQA: A Multimodal Dataset for Fine-Grained Understanding of Chinese Food Culture
+* FoodieQA: A Multimodal Dataset for Fine-Grained Understanding of Chinese Food Culture.   
 Wenyan Li, Xinyu Zhang, Jiaang Li, ...,  **Yifei Yuan**, Anders Søgaard, Daniel Hershcovich, Desmond Elliott.   
 *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing.* **(Full Paper, EMNLP 2024)**
 
