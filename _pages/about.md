@@ -47,7 +47,7 @@ Yang Deng, Xuan Zhang, Wenxuan Zhang, **Yifei Yuan**, See-Kiong Ng, Tat-Seng Chu
 *Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics.* **(Full Paper, ACL 2024)**
 
 * CO3: Low-resource Contrastive Co-training for Generative Conversational Query Rewrite.   
-**Yifei Yuan**, Chen Shi, Wang Runze, Liyi Chen, Renjun Hu, Zengming zhang, Feijun Jiang, Wai Lam.
+**Yifei Yuan**, Chen Shi, Wang Runze, Liyi Chen, Renjun Hu, Zengming Zhang, Feijun Jiang, Wai Lam.
 *Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation.* **(Full Paper, COLING 2024)**
 
 * Asking Multimodal Clarifying Questions in Mixed-Initiative Conversational Search.   
