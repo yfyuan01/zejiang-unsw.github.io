@@ -31,11 +31,11 @@ Currently, my research interest focuses on multimodal information retrieval and 
 
 ## Selected Publications
 * Unlocking Markets: A Multilingual Benchmark to Cross-Market Question Answering
-**Yifei Yuan**, Yang Deng, Anders Søgaard, Mohammad Aliannejadi
+**Yifei Yuan**, Yang Deng, Anders Søgaard, Mohammad Aliannejadi.   
 *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing.* **(Full Paper, EMNLP 2024)**
 
 * FoodieQA: A Multimodal Dataset for Fine-Grained Understanding of Chinese Food Culture
-Wenyan Li, Xinyu Zhang, Jiaang Li, ...,  **Yifei Yuan**, Anders Søgaard, Daniel Hershcovich, Desmond Elliott
+Wenyan Li, Xinyu Zhang, Jiaang Li, ...,  **Yifei Yuan**, Anders Søgaard, Daniel Hershcovich, Desmond Elliott.   
 *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing.* **(Full Paper, EMNLP 2024)**
 
 * Towards Fine-Grained Citation Evaluation in Generated Text: A Comparative Analysis of Faithfulness Metrics.   
