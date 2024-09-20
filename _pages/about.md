@@ -30,6 +30,14 @@ Currently, my research interest focuses on multimodal information retrieval and 
 * Development of [index-based drought insurance](https://doi.org/10.1108/AFR-02-2020-0020) for disaster risk transfer -->
 
 ## Selected Publications
+* Unlocking Markets: A Multilingual Benchmark to Cross-Market Question Answering
+**Yifei Yuan**, Yang Deng, Anders Søgaard, Mohammad Aliannejadi
+*Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing.* **(Full Paper, EMNLP 2024)**
+
+* FoodieQA: A Multimodal Dataset for Fine-Grained Understanding of Chinese Food Culture
+Wenyan Li, Xinyu Zhang, Jiaang Li, ...,  **Yifei Yuan**, Anders Søgaard, Daniel Hershcovich, Desmond Elliott
+*Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing.* **(Full Paper, EMNLP 2024)**
+
 * Towards Fine-Grained Citation Evaluation in Generated Text: A Comparative Analysis of Faithfulness Metrics.   
 Weijia Zhang, Mohammad Aliannejadi, **Yifei Yuan**, Jiahuan Pei, JIA-HONG HUANG and Evangelos Kanoulas.   
 *Proceedings of the 17th International Natural Language Generation Conference* **(Full Paper, INLG 2024)**
@@ -80,7 +88,7 @@ Wenxuan Zhang, Yang Deng, Xin Li, **Yifei Yuan**, Lidong Bing, Wai Lam.
 *Proceedings of the 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 10th International Joint Conference on Natural Language Processing, 2020.* **(Full Paper, AACL 2020)**
 
 ## Professional Activity
-Reviewer and PC members: ACL, SIGIR, NAACL, WWW, CIKM, EACL, TOIS, ACM Computing Surverys, ...
+Reviewer and PC members: ACL, SIGIR, KDD, NAACL, WWW, COLING, CIKM, EACL, TOIS, ACM Computing Surverys, ...
 
 ## Invited Talk
 * LLM-based Clarification in Conversational Search: Going beyond Unimodality and System Performance.  
