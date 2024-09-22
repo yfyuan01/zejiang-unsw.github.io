@@ -125,4 +125,4 @@ Ellis ESSIR summer school in UvA, Amsterdam, July 2024
 [//]: # (* SIGIR Student Grant, 2022)
 
 ## For more information
-More info about me can be found in [CV](https://drive.google.com/file/d/1e_DGE5ln-HdYYc8Ncgk4Lmi8hB5GfNrk/view?usp=sharing).
+More info about me can be found in [CV](https://drive.google.com/file/d/15esnpQxBtMp-vTFNvVezP7fSOHifI_qI/view?usp=sharing).
